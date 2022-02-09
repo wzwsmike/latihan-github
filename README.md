@@ -1,4 +1,4 @@
 Latihan-Github
 ==
-**Repository Untuk Latihan GITHUB
+*Repository Untuk Latihan GITHUB*
 
