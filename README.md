@@ -1,3 +1,4 @@
 Latihan-Github
 ==
-Repo untuk latihan VCS
+*Repository Untuk Latihan GITHUB
+--
